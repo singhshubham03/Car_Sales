@@ -1,5 +1,3 @@
-README.md
-
 # Car Sales using GUI
 
 ## Introduction
