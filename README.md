@@ -8,7 +8,7 @@ This project is a part of my databases class where I developed a car sales and u
 
 To run this project, you need to have the following installed on your computer:
 - Java 8 or later
-- JavaFX 8 or later
+- PyQT5
 - MySQL 5.7 or later
 
 ## Approach
